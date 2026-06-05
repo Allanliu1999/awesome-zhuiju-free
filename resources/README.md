@@ -10,7 +10,7 @@
 | `cloud_search` | 网盘资源搜索 |
 | `magnet_search` | 磁力链接搜索 |
 | `subtitles` | 字幕站、字幕组与字幕工具 |
-| `player` | 播放器与客户端 |
+| `player` | TVbox播放器与客户端 |
 | `subscription` | IPTV、广播与其他订阅源 |
 | `membership` | 会员拼团与省钱信息 |
 | `other` | 其他追剧相关资源 |

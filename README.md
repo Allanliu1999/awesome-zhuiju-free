@@ -26,7 +26,7 @@
 
 | 持续验证 | 公开评分 | 风险透明 | 社区共建 |
 | :---: | :---: | :---: | :---: |
-| 每条资源展示最后验证日期 | 使用「多、快、净、稳、易」描述体验 | 版权、安全、隐私与支付风险单独标记 | 通过 Issue 和 PR 推荐、纠错与更新 |
+| 每条资源展示最后验证日期 | 使用「多、快、净、稳」描述体验 | 版权、安全、隐私与支付风险单独标记 | 通过 Issue 和 PR 推荐、纠错与更新 |
 
 > [!IMPORTANT]
 > 本项目仅提供资源索引、体验记录与风险提示，不托管影视文件、破解软件、账号、密钥或单部影视作品链接。
@@ -38,7 +38,7 @@
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-0-64748b?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力与-bt-搜索"><img src="https://img.shields.io/badge/磁力与_BT-1-7c3aed?style=flat-square" alt="磁力与 BT 搜索"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-1-d97706?style=flat-square" alt="字幕资源"></a>
-  <a href="#播放器"><img src="https://img.shields.io/badge/播放器-1-059669?style=flat-square" alt="播放器"></a>
+  <a href="#tvbox播放器"><img src="https://img.shields.io/badge/TVbox播放器-1-059669?style=flat-square" alt="TVbox播放器"></a>
   <a href="#订阅源"><img src="https://img.shields.io/badge/订阅源-1-db2777?style=flat-square" alt="订阅源"></a>
   <a href="#会员拼团"><img src="https://img.shields.io/badge/会员拼团-0-64748b?style=flat-square" alt="会员拼团"></a>
 </p>
@@ -56,10 +56,8 @@
       <th width="5%">快</th>
       <th width="5%">净</th>
       <th width="5%">稳</th>
-      <th width="5%">易</th>
-      <th width="8%">状态</th>
-      <th width="7%">风&#8288;险</th>
-      <th width="15%">验证</th>
+      <th width="8%">状&#8288;态</th>
+      <th width="15%">验&#8288;证</th>
     </tr>
   </thead>
   <tbody>
@@ -70,10 +68,8 @@
       <td align="center">4.5</td>
       <td align="center">4.0</td>
       <td align="center">4.8</td>
-      <td align="center">4.2</td>
-      <td align="center">推荐</td>
-      <td align="center">低</td>
-      <td align="center">2026-06-06</td>
+      <td align="center">推&#8288;荐</td>
+      <td align="center">2026&#8209;06&#8209;06</td>
     </tr>
     <tr>
       <td><a href="https://www.1905.com/vod/">1905 电影网</a></td>
@@ -82,10 +78,8 @@
       <td align="center">4.2</td>
       <td align="center">3.5</td>
       <td align="center">4.5</td>
-      <td align="center">4.0</td>
-      <td align="center">推荐</td>
-      <td align="center">低</td>
-      <td align="center">2026-06-06</td>
+      <td align="center">推&#8288;荐</td>
+      <td align="center">2026&#8209;06&#8209;06</td>
     </tr>
     <tr>
       <td><a href="https://archive.org/details/movies">Internet Archive Movies</a></td>
@@ -94,10 +88,8 @@
       <td align="center">3.0</td>
       <td align="center">4.8</td>
       <td align="center">4.6</td>
-      <td align="center">3.5</td>
-      <td align="center">推荐</td>
-      <td align="center">中</td>
-      <td align="center">2026-06-06</td>
+      <td align="center">推&#8288;荐</td>
+      <td align="center">2026&#8209;06&#8209;06</td>
     </tr>
   </tbody>
 </table>
@@ -119,10 +111,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <th width="5%">快</th>
       <th width="5%">净</th>
       <th width="5%">稳</th>
-      <th width="5%">易</th>
-      <th width="8%">状态</th>
-      <th width="7%">风&#8288;险</th>
-      <th width="15%">验证</th>
+      <th width="8%">状&#8288;态</th>
+      <th width="15%">验&#8288;证</th>
     </tr>
   </thead>
   <tbody>
@@ -133,10 +123,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center">3.5</td>
       <td align="center">4.8</td>
       <td align="center">4.2</td>
-      <td align="center">3.2</td>
-      <td align="center">推荐</td>
-      <td align="center">低</td>
-      <td align="center">2026-06-06</td>
+      <td align="center">推&#8288;荐</td>
+      <td align="center">2026&#8209;06&#8209;06</td>
     </tr>
   </tbody>
 </table>
@@ -154,10 +142,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <th width="5%">快</th>
       <th width="5%">净</th>
       <th width="5%">稳</th>
-      <th width="5%">易</th>
-      <th width="8%">状态</th>
-      <th width="7%">风&#8288;险</th>
-      <th width="15%">验证</th>
+      <th width="8%">状&#8288;态</th>
+      <th width="15%">验&#8288;证</th>
     </tr>
   </thead>
   <tbody>
@@ -168,15 +154,13 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center">3.2</td>
       <td align="center">2.8</td>
       <td align="center">4.5</td>
-      <td align="center">3.5</td>
-      <td align="center">谨慎</td>
-      <td align="center">中</td>
-      <td align="center">2026-06-06</td>
+      <td align="center">谨&#8288;慎</td>
+      <td align="center">2026&#8209;06&#8209;06</td>
     </tr>
   </tbody>
 </table>
 
-### 播放器
+### TVbox播放器
 
 <table width="100%">
   <thead>
@@ -187,10 +171,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <th width="5%">快</th>
       <th width="5%">净</th>
       <th width="5%">稳</th>
-      <th width="5%">易</th>
-      <th width="8%">状态</th>
-      <th width="7%">风&#8288;险</th>
-      <th width="15%">验证</th>
+      <th width="8%">状&#8288;态</th>
+      <th width="15%">验&#8288;证</th>
     </tr>
   </thead>
   <tbody>
@@ -201,10 +183,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center">4.0</td>
       <td align="center">5.0</td>
       <td align="center">4.8</td>
-      <td align="center">3.8</td>
-      <td align="center">推荐</td>
-      <td align="center">低</td>
-      <td align="center">2026-06-06</td>
+      <td align="center">推&#8288;荐</td>
+      <td align="center">2026&#8209;06&#8209;06</td>
     </tr>
   </tbody>
 </table>
@@ -220,10 +200,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <th width="5%">快</th>
       <th width="5%">净</th>
       <th width="5%">稳</th>
-      <th width="5%">易</th>
-      <th width="8%">状态</th>
-      <th width="7%">风&#8288;险</th>
-      <th width="15%">验证</th>
+      <th width="8%">状&#8288;态</th>
+      <th width="15%">验&#8288;证</th>
     </tr>
   </thead>
   <tbody>
@@ -234,10 +212,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td align="center">3.5</td>
       <td align="center">5.0</td>
       <td align="center">4.0</td>
-      <td align="center">3.0</td>
-      <td align="center">谨慎</td>
-      <td align="center">中</td>
-      <td align="center">2026-06-06</td>
+      <td align="center">谨&#8288;慎</td>
+      <td align="center">2026&#8209;06&#8209;06</td>
     </tr>
   </tbody>
 </table>
@@ -260,7 +236,6 @@ _等待首条通过验证的精选资源。仅收录规则透明、风险明确�
 | **快** | 页面打开、搜索响应与播放入口加载快不快 |
 | **净** | 广告、弹窗、跳转和诱导下载少不少，越高越干净 |
 | **稳** | 能否长期访问，域名与服务是否稳定 |
-| **易** | 搜索、移动端与整体使用体验是否容易上手 |
 
 风险分为版权、安全、隐私和支付四类，并使用 `低 / 中 / 高 / 未知` 标记。详细规则见 [贡献指南](CONTRIBUTING.md)。
 
