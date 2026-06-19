@@ -27,11 +27,12 @@ body:
       label: 分类
       options:
         - 在线影视
-        - 网盘资源搜索
-        - 磁力链接搜索
+        - 影视APP
+        - 网盘搜索
+        - 磁力与 BT
         - 字幕
-        - TVbox播放器
-        - 订阅源
+        - TVBox
+        - IPTV 订阅源（影视仓配置地址）
         - 会员拼团
         - 其他
     validations:
