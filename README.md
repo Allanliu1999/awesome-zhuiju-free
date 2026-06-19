@@ -26,7 +26,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 
 ## 怎么快速选择
 
-如果你只是想尽快找到合适入口，可以先按用途筛选，再看推荐指数、人工结论、综合风险和自动状态。
+如果你只是想尽快找到合适入口，可以先按用途筛选，再看推荐指数、状态和检测时间。
 
 | 需求 | 优先看 | 适合场景 | 先注意 |
 | --- | --- | --- | --- |
@@ -42,6 +42,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <!-- featured-resources:start -->
 <p align="center">
   <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-4-2563eb?style=flat-square" alt="在线影视"></a>
+  <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-0-0f766e?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-64748b?style=flat-square" alt="网盘资源搜索"></a>
   <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-2-7c3aed?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-1-d97706?style=flat-square" alt="字幕资源"></a>
@@ -55,7 +56,7 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 
 精选内容来自 [`resources/resources.json`](resources/resources.json)。状态由 GitHub Actions 每日自动检测：`🟢 可访问`、`🟡 访问受限`、`🔴 无法访问`、`⚪ 未检测`。检测结果仅代表 GitHub Actions 节点当时的网络情况。
 
-自动状态只判断主页是否响应，不替代人工结论、风险与体验评价。综合风险取版权、安全、隐私和支付四类风险中的最高等级。完整检测结果见 [`reports/availability.json`](reports/availability.json)。
+状态只判断主页是否响应，不替代完整体验评价。完整检测结果见 [`reports/availability.json`](reports/availability.json)。
 
 检测任务每天北京时间 09:00 左右运行；新增或修改资源后也会自动运行。你也可以在 [Check availability](https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml) 页面手动触发。
 
@@ -66,13 +67,11 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <table width="100%">
   <thead>
     <tr>
-      <th width="16%">资源</th>
-      <th width="28%">简介</th>
-      <th width="14%">推荐指数</th>
-      <th width="12%">人工结论</th>
-      <th width="8%">风险</th>
-      <th width="12%">自动状态</th>
-      <th width="10%">检&#8288;测</th>
+      <th width="20%">资源</th>
+      <th width="30%">简介</th>
+      <th width="20%">推荐指数</th>
+      <th width="15%">状&#8288;态</th>
+      <th width="15%">检测时间</th>
     </tr>
   </thead>
   <tbody>
@@ -80,8 +79,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://gaze.red/" target="_blank" rel="noopener noreferrer">注视影视</a></td>
       <td>国内海外影视剧资源，需梯子</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:gaze-red -->🟡&#8288;访问&#8288;受限<!-- /availability:gaze-red --></td>
       <td align="center"><!-- availability-date:gaze-red -->2026&#8209;06&#8209;19<!-- /availability-date:gaze-red --></td>
     </tr>
@@ -89,8 +86,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.novipnoad.cc/" target="_blank" rel="noopener noreferrer">No影视</a></td>
       <td>海外影视剧资源聚合站</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:no-video -->🟡&#8288;访问&#8288;受限<!-- /availability:no-video --></td>
       <td align="center"><!-- availability-date:no-video -->2026&#8209;06&#8209;19<!-- /availability-date:no-video --></td>
     </tr>
@@ -98,8 +93,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.sotvla.cc/" target="_blank" rel="noopener noreferrer">搜TV啦</a></td>
       <td>国内海外高清影视剧资源</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:sotvla -->🟢&#8288;可&#8288;访问<!-- /availability:sotvla --></td>
       <td align="center"><!-- availability-date:sotvla -->2026&#8209;06&#8209;19<!-- /availability-date:sotvla --></td>
     </tr>
@@ -107,8 +100,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://xlys.me/" target="_blank" rel="noopener noreferrer">雪落影视</a></td>
       <td>国内海外影视剧资源</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:xlys -->🟢&#8288;可&#8288;访问<!-- /availability:xlys --></td>
       <td align="center"><!-- availability-date:xlys -->2026&#8209;06&#8209;19<!-- /availability-date:xlys --></td>
     </tr>
@@ -117,18 +108,22 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
+### 影视APP
+
+_等待首条通过验证的精选资源。你可以 [推荐一个资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)。_
+
+<p align="right"><a href="#精选资源">返回分类导航</a></p>
+
 ### 网盘资源搜索
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="16%">资源</th>
-      <th width="28%">简介</th>
-      <th width="14%">推荐指数</th>
-      <th width="12%">人工结论</th>
-      <th width="8%">风险</th>
-      <th width="12%">自动状态</th>
-      <th width="10%">检&#8288;测</th>
+      <th width="20%">资源</th>
+      <th width="30%">简介</th>
+      <th width="20%">推荐指数</th>
+      <th width="15%">状&#8288;态</th>
+      <th width="15%">检测时间</th>
     </tr>
   </thead>
   <tbody>
@@ -136,8 +131,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.kuakeso.net/" target="_blank" rel="noopener noreferrer">夸克搜</a></td>
       <td>夸克百度网盘搜索</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:kuakeso -->🟢&#8288;可&#8288;访问<!-- /availability:kuakeso --></td>
       <td align="center"><!-- availability-date:kuakeso -->2026&#8209;06&#8209;19<!-- /availability-date:kuakeso --></td>
     </tr>
@@ -145,8 +138,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.zhuiju.us/" target="_blank" rel="noopener noreferrer">追剧吧</a></td>
       <td>影视网盘资源搜索</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:zhuiju-us -->🟢&#8288;可&#8288;访问<!-- /availability:zhuiju-us --></td>
       <td align="center"><!-- availability-date:zhuiju-us -->2026&#8209;06&#8209;19<!-- /availability-date:zhuiju-us --></td>
     </tr>
@@ -154,8 +145,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.gugeso.com/" target="_blank" rel="noopener noreferrer">谷哥搜</a></td>
       <td>支持9种网盘搜索</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:gugeso -->🟢&#8288;可&#8288;访问<!-- /availability:gugeso --></td>
       <td align="center"><!-- availability-date:gugeso -->2026&#8209;06&#8209;19<!-- /availability-date:gugeso --></td>
     </tr>
@@ -163,8 +152,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.kuake.so/" target="_blank" rel="noopener noreferrer">夸克点搜</a></td>
       <td>夸克网盘资源搜索平台</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>中</td>
       <td align="center" nowrap><!-- availability:kuake-so-1 -->🟢&#8288;可&#8288;访问<!-- /availability:kuake-so-1 --></td>
       <td align="center"><!-- availability-date:kuake-so-1 -->2026&#8209;06&#8209;19<!-- /availability-date:kuake-so-1 --></td>
     </tr>
@@ -178,13 +165,11 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <table width="100%">
   <thead>
     <tr>
-      <th width="16%">资源</th>
-      <th width="28%">简介</th>
-      <th width="14%">推荐指数</th>
-      <th width="12%">人工结论</th>
-      <th width="8%">风险</th>
-      <th width="12%">自动状态</th>
-      <th width="10%">检&#8288;测</th>
+      <th width="20%">资源</th>
+      <th width="30%">简介</th>
+      <th width="20%">推荐指数</th>
+      <th width="15%">状&#8288;态</th>
+      <th width="15%">检测时间</th>
     </tr>
   </thead>
   <tbody>
@@ -192,8 +177,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.mjf2020.com" target="_blank" rel="noopener noreferrer">美剧粉</a></td>
       <td>全部高清无广告</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:meijufen -->🟢&#8288;可&#8288;访问<!-- /availability:meijufen --></td>
       <td align="center"><!-- availability-date:meijufen -->2026&#8209;06&#8209;19<!-- /availability-date:meijufen --></td>
     </tr>
@@ -201,8 +184,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.cilixiong.org" target="_blank" rel="noopener noreferrer">磁力熊</a></td>
       <td>无删减、无广告</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>高</td>
       <td align="center" nowrap><!-- availability:cilixiong -->🟢&#8288;可&#8288;访问<!-- /availability:cilixiong --></td>
       <td align="center"><!-- availability-date:cilixiong -->2026&#8209;06&#8209;19<!-- /availability-date:cilixiong --></td>
     </tr>
@@ -216,13 +197,11 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <table width="100%">
   <thead>
     <tr>
-      <th width="16%">资源</th>
-      <th width="28%">简介</th>
-      <th width="14%">推荐指数</th>
-      <th width="12%">人工结论</th>
-      <th width="8%">风险</th>
-      <th width="12%">自动状态</th>
-      <th width="10%">检&#8288;测</th>
+      <th width="20%">资源</th>
+      <th width="30%">简介</th>
+      <th width="20%">推荐指数</th>
+      <th width="15%">状&#8288;态</th>
+      <th width="15%">检测时间</th>
     </tr>
   </thead>
   <tbody>
@@ -230,8 +209,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://www.opensubtitles.com/zh-CN" target="_blank" rel="noopener noreferrer">OpenSubtitles</a></td>
       <td>多语言社区字幕搜索与下载</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>中</td>
       <td align="center" nowrap><!-- availability:opensubtitles -->🟡&#8288;访问&#8288;受限<!-- /availability:opensubtitles --></td>
       <td align="center"><!-- availability-date:opensubtitles -->2026&#8209;06&#8209;19<!-- /availability-date:opensubtitles --></td>
     </tr>
@@ -245,13 +222,11 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <table width="100%">
   <thead>
     <tr>
-      <th width="16%">资源</th>
-      <th width="28%">简介</th>
-      <th width="14%">推荐指数</th>
-      <th width="12%">人工结论</th>
-      <th width="8%">风险</th>
-      <th width="12%">自动状态</th>
-      <th width="10%">检&#8288;测</th>
+      <th width="20%">资源</th>
+      <th width="30%">简介</th>
+      <th width="20%">推荐指数</th>
+      <th width="15%">状&#8288;态</th>
+      <th width="15%">检测时间</th>
     </tr>
   </thead>
   <tbody>
@@ -259,8 +234,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://kodi.tv/" target="_blank" rel="noopener noreferrer">Kodi</a></td>
       <td>开源、跨平台家庭媒体中心</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>✅&#8288;推荐</td>
-      <td align="center" nowrap>低</td>
       <td align="center" nowrap><!-- availability:kodi -->🟡&#8288;访问&#8288;受限<!-- /availability:kodi --></td>
       <td align="center"><!-- availability-date:kodi -->2026&#8209;06&#8209;19<!-- /availability-date:kodi --></td>
     </tr>
@@ -274,13 +247,11 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
 <table width="100%">
   <thead>
     <tr>
-      <th width="16%">资源</th>
-      <th width="28%">简介</th>
-      <th width="14%">推荐指数</th>
-      <th width="12%">人工结论</th>
-      <th width="8%">风险</th>
-      <th width="12%">自动状态</th>
-      <th width="10%">检&#8288;测</th>
+      <th width="20%">资源</th>
+      <th width="30%">简介</th>
+      <th width="20%">推荐指数</th>
+      <th width="15%">状&#8288;态</th>
+      <th width="15%">检测时间</th>
     </tr>
   </thead>
   <tbody>
@@ -288,8 +259,6 @@ Awesome Zhuiju Free 是一个持续验证的免费追剧资源导航与影视工
       <td><a href="https://github.com/iptv-org/iptv" target="_blank" rel="noopener noreferrer">IPTV-org</a></td>
       <td>社区维护的公开 IPTV 频道集合</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap>⚠️&#8288;谨慎</td>
-      <td align="center" nowrap>中</td>
       <td align="center" nowrap><!-- availability:iptv-org -->🟢&#8288;可&#8288;访问<!-- /availability:iptv-org --></td>
       <td align="center"><!-- availability-date:iptv-org -->2026&#8209;06&#8209;19<!-- /availability-date:iptv-org --></td>
     </tr>

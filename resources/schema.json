@@ -73,6 +73,7 @@
           "type": "string",
           "enum": [
             "online_video",
+            "video_app",
             "cloud_search",
             "magnet_search",
             "subtitles",

@@ -7,6 +7,7 @@
 | 值 | 分类 |
 | --- | --- |
 | `online_video` | 在线影视 |
+| `video_app` | 影视APP |
 | `cloud_search` | 网盘资源搜索 |
 | `magnet_search` | 磁力& BT |
 | `subtitles` | 字幕站、字幕组与字幕工具 |

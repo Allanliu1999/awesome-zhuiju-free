@@ -3,6 +3,7 @@ import { readFile } from "node:fs/promises";
 const root = new URL("../", import.meta.url);
 const categories = new Set([
   "online_video",
+  "video_app",
   "cloud_search",
   "magnet_search",
   "subtitles",
