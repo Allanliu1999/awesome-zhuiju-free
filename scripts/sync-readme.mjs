@@ -128,7 +128,7 @@ function tableFor(resources, availabilityById) {
 
       return `    <tr>
       <td><a href="${escapeHtml(resource.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(resource.name)}</a></td>
-      <td>${escapeHtml(shortSummary(resource))}</td>
+      <td nowrap>${escapeHtml(shortSummary(resource))}</td>
       <td align="center" nowrap>${recommendationStars(resource)}</td>
       <td align="center" nowrap><!-- availability:${resource.id} -->${status}<!-- /availability:${resource.id} --></td>
       <td align="center"><!-- availability-date:${resource.id} -->${checkedAt}<!-- /availability-date:${resource.id} --></td>

@@ -769,7 +769,7 @@
       "url": "https://www.kuake.so/",
       "category": "cloud_search",
       "summary": "夸克点搜是一个免费的夸克网盘资源搜索平台，通过聚合互联网上公开分享的夸克网盘资源链接，为用户提供快速、精准的搜索服务。",
-      "summary_short": "夸克网盘资源搜索平台",
+      "summary_short": "专注夸克网盘资源搜索",
       "tags": ["网盘搜索", "夸克网盘", "中文"],
       "access": {
         "requires_login": false,
@@ -845,7 +845,7 @@
       "url": "https://www.zhuiju.us/",
       "category": "cloud_search",
       "summary": "面向影视网盘资源的搜索站。",
-      "summary_short": "影视网盘资源搜索",
+      "summary_short": "国内外热门影视网盘资源搜索",
       "tags": ["网盘搜索", "影视资源", "中文"],
       "access": {
         "requires_login": false,
@@ -883,7 +883,7 @@
       "url": "https://www.gugeso.com/",
       "category": "cloud_search",
       "summary": "支持多种网盘资源搜索的网盘搜索站。",
-      "summary_short": "支持9种网盘搜索",
+      "summary_short": "支持9种网盘的综合搜索站",
       "tags": ["网盘搜索", "多网盘", "中文"],
       "access": {
         "requires_login": false,
