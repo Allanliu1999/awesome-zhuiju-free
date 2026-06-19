@@ -209,22 +209,22 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td><a href="https://zimuku.org" target="_blank" rel="noopener noreferrer">字幕库</a></td>
       <td>字幕下载</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:zimuku -->⚪&#8288;未&#8288;检测<!-- /availability:zimuku --></td>
-      <td align="center"><!-- availability-date:zimuku -->未检测<!-- /availability-date:zimuku --></td>
+      <td align="center" nowrap><!-- availability:zimuku -->🔴&#8288;无法&#8288;访问<!-- /availability:zimuku --></td>
+      <td align="center"><!-- availability-date:zimuku -->2026&#8209;06&#8209;19<!-- /availability-date:zimuku --></td>
     </tr>
     <tr>
       <td><a href="https://assrt.net" target="_blank" rel="noopener noreferrer">射手网(伪)</a></td>
       <td>字幕下载</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:assrt -->⚪&#8288;未&#8288;检测<!-- /availability:assrt --></td>
-      <td align="center"><!-- availability-date:assrt -->未检测<!-- /availability-date:assrt --></td>
+      <td align="center" nowrap><!-- availability:assrt -->🟢&#8288;可&#8288;访问<!-- /availability:assrt --></td>
+      <td align="center"><!-- availability-date:assrt -->2026&#8209;06&#8209;19<!-- /availability-date:assrt --></td>
     </tr>
     <tr>
       <td><a href="https://subhd.tv" target="_blank" rel="noopener noreferrer">SubHD</a></td>
       <td>分享下载字幕平台</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:subhd -->⚪&#8288;未&#8288;检测<!-- /availability:subhd --></td>
-      <td align="center"><!-- availability-date:subhd -->未检测<!-- /availability-date:subhd --></td>
+      <td align="center" nowrap><!-- availability:subhd -->🟡&#8288;访问&#8288;受限<!-- /availability:subhd --></td>
+      <td align="center"><!-- availability-date:subhd -->2026&#8209;06&#8209;19<!-- /availability-date:subhd --></td>
     </tr>
   </tbody>
 </table>
