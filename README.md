@@ -348,56 +348,56 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
   <tbody>
     <tr>
       <td nowrap>饭太硬</td>
-      <td><pre><code>http://www.饭太硬.com/tv</code></pre></td>
+      <td><code>http:<wbr>/<wbr>/<wbr>www.<wbr>饭太硬.<wbr>com/<wbr>tv</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:fan-tai-ying -->🟢&#8288;可&#8288;访问<!-- /availability:fan-tai-ying --></td>
       <td align="center" nowrap><!-- availability-date:fan-tai-ying -->2026&#8209;07&#8209;04<!-- /availability-date:fan-tai-ying --></td>
     </tr>
     <tr>
       <td nowrap>肥猫</td>
-      <td><pre><code>http://xn--z7x900a.live/</code></pre></td>
+      <td><code>http:<wbr>/<wbr>/<wbr>xn-<wbr>-<wbr>z7x900a.<wbr>live/<wbr></code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:fei-mao -->🟢&#8288;可&#8288;访问<!-- /availability:fei-mao --></td>
       <td align="center" nowrap><!-- availability-date:fei-mao -->2026&#8209;07&#8209;04<!-- /availability-date:fei-mao --></td>
     </tr>
     <tr>
       <td nowrap>骚零</td>
-      <td><pre><code>https://100km.top/0</code></pre></td>
+      <td><code>https:<wbr>/<wbr>/<wbr>100km.<wbr>top/<wbr>0</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:sao-ling -->🔴&#8288;无法&#8288;访问<!-- /availability:sao-ling --></td>
       <td align="center" nowrap><!-- availability-date:sao-ling -->2026&#8209;07&#8209;04<!-- /availability-date:sao-ling --></td>
     </tr>
     <tr>
       <td nowrap>蜂蜜</td>
-      <td><pre><code>https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/demo.json</code></pre></td>
+      <td><code>https:<wbr>/<wbr>/<wbr>gh-<wbr>proxy.<wbr>com/<wbr>https:<wbr>/<wbr>/<wbr>raw.<wbr>githubusercontent.<wbr>com/<wbr>FongMi/<wbr>CatVodSpider/<wbr>main/<wbr>json/<wbr>demo.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:feng-mi -->🔴&#8288;无法&#8288;访问<!-- /availability:feng-mi --></td>
       <td align="center" nowrap><!-- availability-date:feng-mi -->2026&#8209;07&#8209;04<!-- /availability-date:feng-mi --></td>
     </tr>
     <tr>
       <td nowrap>小米</td>
-      <td><pre><code>https://3450.kstore.space/DEMO.json</code></pre></td>
+      <td><code>https:<wbr>/<wbr>/<wbr>3450.<wbr>kstore.<wbr>space/<wbr>DEMO.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:xiao-mi -->🔴&#8288;无法&#8288;访问<!-- /availability:xiao-mi --></td>
       <td align="center" nowrap><!-- availability-date:xiao-mi -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-mi --></td>
     </tr>
     <tr>
       <td nowrap>OK佬1</td>
-      <td><pre><code>http://ok321.top/tv</code></pre></td>
+      <td><code>http:<wbr>/<wbr>/<wbr>ok321.<wbr>top/<wbr>tv</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:ok-lao-1 -->🔴&#8288;无法&#8288;访问<!-- /availability:ok-lao-1 --></td>
       <td align="center" nowrap><!-- availability-date:ok-lao-1 -->2026&#8209;07&#8209;04<!-- /availability-date:ok-lao-1 --></td>
     </tr>
     <tr>
       <td nowrap>OK佬2</td>
-      <td><pre><code>http://ok321.top/ok</code></pre></td>
+      <td><code>http:<wbr>/<wbr>/<wbr>ok321.<wbr>top/<wbr>ok</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:ok-lao-2 -->🔴&#8288;无法&#8288;访问<!-- /availability:ok-lao-2 --></td>
       <td align="center" nowrap><!-- availability-date:ok-lao-2 -->2026&#8209;07&#8209;04<!-- /availability-date:ok-lao-2 --></td>
     </tr>
     <tr>
       <td nowrap>牛蛙</td>
-      <td><pre><code>http://tvbox.xn--4kq62z5rby2qupq9ub.top/</code></pre></td>
+      <td><code>http:<wbr>/<wbr>/<wbr>tvbox.<wbr>xn-<wbr>-<wbr>4kq62z5rby2qupq9ub.<wbr>top/<wbr></code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:niu-wa -->🟢&#8288;可&#8288;访问<!-- /availability:niu-wa --></td>
       <td align="center" nowrap><!-- availability-date:niu-wa -->2026&#8209;07&#8209;04<!-- /availability-date:niu-wa --></td>

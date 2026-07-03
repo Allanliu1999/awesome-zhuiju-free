@@ -31,6 +31,10 @@ function escapeHtml(value) {
     .replaceAll('"', "&quot;");
 }
 
+function breakableCode(value) {
+  return escapeHtml(value).replaceAll(/([/:._-])/g, "$1<wbr>");
+}
+
 function anchorFor(name) {
   return name
     .toLowerCase()
@@ -141,7 +145,7 @@ function tableFor(resources, availabilityById, options = {}) {
         ? escapeHtml(resource.name)
         : `<a href="${escapeHtml(resource.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(resource.name)}</a>`;
       const summaryCell = showUrlInSummary
-        ? `<pre><code>${escapeHtml(resource.url)}</code></pre>`
+        ? `<code>${breakableCode(resource.url)}</code>`
         : escapeHtml(shortSummary(resource));
       const summaryAttribute = showUrlInSummary ? "" : " nowrap";
 
