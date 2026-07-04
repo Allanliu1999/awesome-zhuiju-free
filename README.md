@@ -392,14 +392,14 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
       <td nowrap>俊佬</td>
       <td><code>http:<wbr>/<wbr>/<wbr>home.<wbr>jundie.<wbr>top:<wbr>81/<wbr>top98.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:jun-lao -->🟢&#8288;可&#8288;访问<!-- /availability:jun-lao --></td>
+      <td align="center" nowrap><!-- availability:jun-lao -->🔴&#8288;无法&#8288;访问<!-- /availability:jun-lao --></td>
       <td align="center" nowrap><!-- availability-date:jun-lao -->2026&#8209;07&#8209;04<!-- /availability-date:jun-lao --></td>
     </tr>
     <tr>
       <td nowrap>小马</td>
       <td><code>https:<wbr>/<wbr>/<wbr>szyyds.<wbr>cn/<wbr>tv/<wbr>x.<wbr>json</code></td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:xiao-ma -->🔴&#8288;无法&#8288;访问<!-- /availability:xiao-ma --></td>
+      <td align="center" nowrap><!-- availability:xiao-ma -->🟢&#8288;可&#8288;访问<!-- /availability:xiao-ma --></td>
       <td align="center" nowrap><!-- availability-date:xiao-ma -->2026&#8209;07&#8209;04<!-- /availability-date:xiao-ma --></td>
     </tr>
     <tr>
