@@ -362,17 +362,6 @@
       "error": null
     },
     {
-      "resource_id": "jun-lao",
-      "url": "http://home.jundie.top:81/top98.json",
-      "status": "unreachable",
-      "http_status": null,
-      "final_url": null,
-      "response_ms": 1043,
-      "checked_at": "2026-07-10T04:59:17.599Z",
-      "attempts": 2,
-      "error": "fetch failed"
-    },
-    {
       "resource_id": "xiao-ma",
       "url": "https://szyyds.cn/tv/x.json",
       "status": "unreachable",
