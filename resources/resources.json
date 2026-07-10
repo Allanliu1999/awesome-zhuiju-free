@@ -1,12 +1,12 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-07-06",
+  "updated_at": "2026-07-10",
   "resources": [
     {
       "id": "no-video",
       "name": "No影视",
-      "url": "https://www.novipnoad.cc/",
+      "url": "https://novipnoad.org/",
       "category": "online_video",
       "summary": "主打海外影视剧资源的在线影视站。",
       "summary_short": "海外影视剧资源聚合站（需梯子）",
@@ -31,9 +31,9 @@
       },
       "verification": {
         "status": "caution",
-        "last_checked": "2026-06-13",
+        "last_checked": "2026-07-10",
         "method": "manual",
-        "notes": "用户推荐资源，主打海外影视剧资源；内容来源、版权状态与站点安全性需要持续观察。"
+        "notes": "根据用户补充将访问地址从 https://www.novipnoad.cc/ 更新为 https://novipnoad.org/；主打海外影视剧资源，内容来源、版权状态与站点安全性需要持续观察。"
       },
       "source": {
         "submitted_by": "maintainer",
