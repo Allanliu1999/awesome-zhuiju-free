@@ -488,7 +488,7 @@
     </tr>
     <tr>
       <td nowrap><a href="https://tv.xn--yhqu5zs87a.top/" target="_blank" rel="noopener noreferrer">FongMi 影视</a></td>
-      <td nowrap>tvbox二开，附带视频源，手机端、平板端已测试</td>
+      <td nowrap>tvbox二开/带视频源，手机端/平板端已测试</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:tv-xn-yhqu5zs87a-top-3 -->🟢&#8288;可&#8288;访问<!-- /availability:tv-xn-yhqu5zs87a-top-3 --></td>
       <td align="center" nowrap><!-- availability-date:tv-xn-yhqu5zs87a-top-3 -->2026&#8209;07&#8209;12<!-- /availability-date:tv-xn-yhqu5zs87a-top-3 --></td>
