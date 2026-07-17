@@ -38,6 +38,14 @@ function markdownCode(value) {
   return text.includes("`") ? `\`\` ${text} \`\`` : `\`${text}\``;
 }
 
+function escapeHtml(value) {
+  return String(value)
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;");
+}
+
 function anchorFor(name) {
   return name
     .toLowerCase()
@@ -216,6 +224,40 @@ function tableFor(resources, availabilityById, options = {}) {
 ${rows}`;
 }
 
+function videoAppTableFor(resources, availabilityById) {
+  const rows = resources
+    .map((resource) => {
+      const availability = availabilityById.get(resource.id);
+      const status = statusDisplay(availability?.status ?? "unknown");
+      const checkedAt = dateInTimeZone(availability?.checked_at);
+      const platforms = (resource.platforms ?? []).join(" / ") || "未注明";
+
+      return `    <tr>
+      <td nowrap><a href="${escapeHtml(resource.link_url ?? resource.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(resource.name)}</a></td>
+      <td>${escapeHtml(shortSummary(resource))}</td>
+      <td align="center">${escapeHtml(platforms)}</td>
+      <td align="center" nowrap><!-- availability:${resource.id} -->${status}<!-- /availability:${resource.id} --></td>
+      <td align="center" nowrap><!-- availability-date:${resource.id} -->${checkedAt}<!-- /availability-date:${resource.id} --></td>
+    </tr>`;
+    })
+    .join("\n");
+
+  return `<table width="100%">
+  <thead>
+    <tr>
+      <th width="15%" nowrap>资源</th>
+      <th width="25%" nowrap>简介</th>
+      <th width="32%" nowrap>支持平台</th>
+      <th width="12%" nowrap>状态</th>
+      <th width="16%" nowrap>检测时间</th>
+    </tr>
+  </thead>
+  <tbody>
+${rows}
+  </tbody>
+</table>`;
+}
+
 function openSourceTableFor(resources) {
   const starFormatter = new Intl.NumberFormat("en-US");
   const rows = resources
@@ -240,14 +282,11 @@ function categorySection(category, resources, availabilityById) {
     content =
       category.id === "open_source"
         ? openSourceTableFor(categoryResources)
+        : category.id === "video_app"
+          ? videoAppTableFor(categoryResources, availabilityById)
         : tableFor(categoryResources, availabilityById, {
             summaryHeading: category.id === "tvbox_config" ? "地址" : "简介",
-            thirdHeading: category.id === "video_app" ? "支持平台" : "推荐指数",
-            thirdCell:
-              category.id === "video_app"
-                ? (resource) =>
-                    markdownCell((resource.platforms ?? []).join(" / ") || "未注明")
-                : undefined,
+            thirdHeading: "推荐指数",
             plainName: (resource) =>
               category.id === "tvbox_config" && !resource.link_url,
             showUrlInSummary: (resource) =>

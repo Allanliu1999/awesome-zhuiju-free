@@ -114,11 +114,40 @@
 
 ### 影视APP
 
-| 资源 | 简介 | 支持平台 | 状态 | 检测时间 |
-| --- | --- | :---: | :---: | :---: |
-| [SeleneTV](<https://b.zhuiju.me/archives/4/>) | 跨平台 MoonTV 客户端 | Android / iOS / macOS / Windows | <!-- availability:selenetv-app -->🟢&#8288;可&#8288;访问<!-- /availability:selenetv-app --> | <!-- availability-date:selenetv-app -->2026&#8209;07&#8209;18<!-- /availability-date:selenetv-app --> |
-| [Kazumi](<https://kazumi.app/download>) | 免费无广告/在线观看番剧 | Android / iOS / Windows / macOS / HarmonyOS | <!-- availability:kazumi -->🟢&#8288;可&#8288;访问<!-- /availability:kazumi --> | <!-- availability-date:kazumi -->2026&#8209;07&#8209;18<!-- /availability-date:kazumi --> |
-| [Animeko](<https://animeko.org/downloads/>) | 一站式在线弹幕追番平台 | Android / Windows / macOS / Linux / iOS | <!-- availability:animeko-app -->🟢&#8288;可&#8288;访问<!-- /availability:animeko-app --> | <!-- availability-date:animeko-app -->2026&#8209;07&#8209;18<!-- /availability-date:animeko-app --> |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="15%" nowrap>资源</th>
+      <th width="25%" nowrap>简介</th>
+      <th width="32%" nowrap>支持平台</th>
+      <th width="12%" nowrap>状态</th>
+      <th width="16%" nowrap>检测时间</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap><a href="https://b.zhuiju.me/archives/4/" target="_blank" rel="noopener noreferrer">SeleneTV</a></td>
+      <td>跨平台 MoonTV 客户端</td>
+      <td align="center">Android / iOS / macOS / Windows</td>
+      <td align="center" nowrap><!-- availability:selenetv-app -->🟢&#8288;可&#8288;访问<!-- /availability:selenetv-app --></td>
+      <td align="center" nowrap><!-- availability-date:selenetv-app -->2026&#8209;07&#8209;18<!-- /availability-date:selenetv-app --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://kazumi.app/download" target="_blank" rel="noopener noreferrer">Kazumi</a></td>
+      <td>免费无广告/在线番剧</td>
+      <td align="center">Android / iOS / Windows / macOS / HarmonyOS</td>
+      <td align="center" nowrap><!-- availability:kazumi -->🟢&#8288;可&#8288;访问<!-- /availability:kazumi --></td>
+      <td align="center" nowrap><!-- availability-date:kazumi -->2026&#8209;07&#8209;18<!-- /availability-date:kazumi --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://animeko.org/downloads/" target="_blank" rel="noopener noreferrer">Animeko</a></td>
+      <td>在线弹幕追番平台</td>
+      <td align="center">Android / Windows / macOS / Linux / iOS</td>
+      <td align="center" nowrap><!-- availability:animeko-app -->🟢&#8288;可&#8288;访问<!-- /availability:animeko-app --></td>
+      <td align="center" nowrap><!-- availability-date:animeko-app -->2026&#8209;07&#8209;18<!-- /availability-date:animeko-app --></td>
+    </tr>
+  </tbody>
+</table>
 
 <p align="right"><a href="#精选资源">返回分类导航</a></p>
 
