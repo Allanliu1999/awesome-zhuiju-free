@@ -344,7 +344,7 @@ ${endMarker}`;
 
 const readme = await readFile(readmePath, "utf8");
 const countBadge = `${countStartMarker}
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-${resourcesData.resources.length}_个资源-0f766e?style=for-the-badge" alt="已收录 ${resourcesData.resources.length} 个资源"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-${resourcesData.resources.length}_个资源-0f766e?style=for-the-badge" alt="已收录 ${resourcesData.resources.length} 个资源" height="20"></a>
 ${countEndMarker}`;
 let updatedReadme = replaceMarkedBlock(readme, startMarker, endMarker, generated, 2);
 updatedReadme = replaceMarkedBlock(
@@ -356,11 +356,13 @@ updatedReadme = replaceMarkedBlock(
 );
 
 const headerBadgesPattern =
-  /(?:\[!\[Website\]\(https:\/\/img\.shields\.io\/badge\/网站-zhuiju\.me-2563eb\?style=for-the-badge\)\]\(https:\/\/zhuiju\.me\)\r?\n<!-- resource-count:start -->[\s\S]*?<!-- resource-count:end -->\r?\n\[!\[Daily Check\]\(https:\/\/img\.shields\.io\/badge\/可用性检测-每日执行-f59e0b\?style=for-the-badge\)\]\(https:\/\/github\.com\/laoma2053\/awesome-zhuiju-free\/actions\/workflows\/check-availability\.yml\)|<p align="center">\r?\n  <a href="https:\/\/zhuiju\.me"><img src="https:\/\/img\.shields\.io\/badge\/网站-zhuiju\.me-2563eb\?style=for-the-badge" alt="网站 zhuiju\.me"><\/a>\r?\n  <!-- resource-count:start -->[\s\S]*?<!-- resource-count:end -->\r?\n  <a href="https:\/\/github\.com\/laoma2053\/awesome-zhuiju-free\/actions\/workflows\/check-availability\.yml"><img src="https:\/\/img\.shields\.io\/badge\/可用性检测-每日执行-f59e0b\?style=for-the-badge" alt="可用性检测 每日执行"><\/a>\r?\n<\/p>)/;
+  /(?:\[!\[Website\]\(https:\/\/img\.shields\.io\/badge\/网站-zhuiju\.me-2563eb\?style=for-the-badge\)\]\(https:\/\/zhuiju\.me\)\r?\n<!-- resource-count:start -->[\s\S]*?<!-- resource-count:end -->\r?\n\[!\[Daily Check\]\(https:\/\/img\.shields\.io\/badge\/可用性检测-每日执行-f59e0b\?style=for-the-badge\)\]\(https:\/\/github\.com\/laoma2053\/awesome-zhuiju-free\/actions\/workflows\/check-availability\.yml\)|<p align="center">\r?\n  <a href="https:\/\/zhuiju\.me"><img src="https:\/\/img\.shields\.io\/badge\/网站-zhuiju\.me-2563eb\?style=for-the-badge" alt="网站 zhuiju\.me"(?: height="\d+")?><\/a>\r?\n  <!-- resource-count:start -->[\s\S]*?<!-- resource-count:end -->\r?\n  <a href="https:\/\/github\.com\/laoma2053\/awesome-zhuiju-free\/actions\/workflows\/check-availability\.yml"><img src="https:\/\/img\.shields\.io\/badge\/可用性检测-每日执行-f59e0b\?style=for-the-badge" alt="可用性检测 每日执行"(?: height="\d+")?><\/a>\r?\n(?:  <a href="https:\/\/github\.com\/laoma2053\/awesome-zhuiju-free\/stargazers"><img src="https:\/\/img\.shields\.io\/github\/stars\/laoma2053\/awesome-zhuiju-free\?style=for-the-badge&color=yellow" alt="GitHub Stars"(?: height="\d+")?><\/a>\r?\n)?(?:  <a href="https:\/\/deepwiki\.com\/laoma2053\/awesome-zhuiju-free"><img src="https:\/\/deepwiki\.com\/badge\.svg" alt="Ask DeepWiki"(?: height="\d+")?><\/a>\r?\n)?<\/p>)/;
 const headerBadges = `<p align="center">
-  <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
+  <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me" height="20"></a>
   ${countBadge}
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行" height="20"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=for-the-badge&color=yellow" alt="GitHub Stars" height="20"></a>
+  <a href="https://deepwiki.com/laoma2053/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" height="20"></a>
 </p>`;
 
 if (!headerBadgesPattern.test(updatedReadme)) {

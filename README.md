@@ -2,29 +2,29 @@
 
 # Awesome Zhuiju Free
 
-### 追剧不踩坑，资源有人测
+### 免费无广告的追剧资源指南
 
 <p>🎬 在线影视 · 影视APP · 网盘搜索<br>
-📦 磁力 BT · 字幕 · TVBox/影视仓配置地址<br>
-🔍 人工精选，仅收录免费无广告资源<br>
-✅ 每日自动检测可用性，资源不是死列表<br>
+📦 磁力BT/字幕 · TVBox/影视仓接口<br>
+🔍 人工精选，免费无广的资源<br>
+✅ 每天自动检测，资源是否可用<br>
 🔓 完全开源，社区共同维护</p>
 
 <p align="center">
-  <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me"></a>
+  <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-2563eb?style=for-the-badge" alt="网站 zhuiju.me" height="20"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-73_个资源-0f766e?style=for-the-badge" alt="已收录 73 个资源"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-73_个资源-0f766e?style=for-the-badge" alt="已收录 73 个资源" height="20"></a>
 <!-- resource-count:end -->
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/可用性检测-每日执行-f59e0b?style=for-the-badge" alt="可用性检测 每日执行" height="20"></a>
+  <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=for-the-badge&color=yellow" alt="GitHub Stars" height="20"></a>
+  <a href="https://deepwiki.com/laoma2053/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki" height="20"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=for-the-badge&color=yellow" alt="GitHub Stars"></a>
-  <a href="https://trendshift.io/repositories/79445"><img src="https://img.shields.io/badge/Trendshift-已收录-7c3aed?style=for-the-badge" alt="Trendshift"></a>
-  <a href="https://deepwiki.com/laoma2053/awesome-zhuiju-free"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+  <a href="https://trendshift.io/repositories/79445?utm_source=trendshift-badge&amp;utm_medium=badge&amp;utm_campaign=badge-trendshift-79445" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/trendshift/repositories/79445/daily?language=JavaScript" alt="laoma2053%2Fawesome-zhuiju-free | Trendshift" width="250" height="55"></a>
 </p>
 
-**[浏览精选资源](#精选资源)** · **[订阅每周更新](https://github.com/laoma2053/awesome-zhuiju-free/releases)** · **[推荐新资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)** · **[贡献指南](CONTRIBUTING.md)**
+**[查看资源](#精选资源)** · **[提交资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)**
 
 觉得有用？点个 ⭐ Star 支持一下，帮助更多追剧党发现这里。
 
