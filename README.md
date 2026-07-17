@@ -861,8 +861,8 @@ _等待首条通过验证的精选资源。你可以 [推荐一个资源](https:
 
 <div align="center">
 
-[查看资源](#精选资源) · [推荐资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml) · [报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)
+**[查看资源](#精选资源)** · **[推荐资源](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=resource.yml)** · **[报告失效](https://github.com/laoma2053/awesome-zhuiju-free/issues/new?template=broken-link.yml)**
 
-追剧不踩坑，资源有人测
+### 追剧不踩坑，资源有人测
 
 </div>
