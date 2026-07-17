@@ -296,7 +296,7 @@
     <tr>
       <td nowrap><a href="https://kazumi.app/download" target="_blank" rel="noopener noreferrer">Kazumi</a></td>
       <td nowrap>免费无广告/在线观看番剧</td>
-      <td align="center" nowrap>Android、iOS、Windows、macOS、HarmonyOS NEXT</td>
+      <td align="center" nowrap>Android、iOS、Windows、macOS、HarmonyOS</td>
       <td align="center" nowrap><!-- availability:kazumi -->🟢&#8288;可&#8288;访问<!-- /availability:kazumi --></td>
       <td align="center" nowrap><!-- availability-date:kazumi -->2026&#8209;07&#8209;18<!-- /availability-date:kazumi --></td>
     </tr>
