@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://zhuiju.me"><img src="https://img.shields.io/badge/网站-zhuiju.me-0A66C2?style=flat-square" alt="网站 zhuiju.me" height="24"></a>
   <!-- resource-count:start -->
-<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-72_个资源-00A98F?style=flat-square" alt="已收录 72 个资源" height="24"></a>
+<a href="resources/resources.json"><img src="https://img.shields.io/badge/已收录-73_个资源-00A98F?style=flat-square" alt="已收录 73 个资源" height="24"></a>
 <!-- resource-count:end -->
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/actions/workflows/check-availability.yml"><img src="https://img.shields.io/badge/检测时间-2026--07--18-00B4D8?style=flat-square" alt="检测时间 2026-07-18" height="24"></a>
   <a href="https://github.com/laoma2053/awesome-zhuiju-free/stargazers"><img src="https://img.shields.io/github/stars/laoma2053/awesome-zhuiju-free?style=flat-square&label=Stars&color=F7B801" alt="GitHub Stars" height="24"></a>
@@ -60,7 +60,7 @@
   <a href="#在线影视"><img src="https://img.shields.io/badge/在线影视-25-2563eb?style=flat-square" alt="在线影视"></a>
   <a href="#影视app"><img src="https://img.shields.io/badge/影视APP-3-0f766e?style=flat-square" alt="影视APP"></a>
   <a href="#网盘资源搜索"><img src="https://img.shields.io/badge/网盘搜索-4-64748b?style=flat-square" alt="网盘资源搜索"></a>
-  <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-9-7c3aed?style=flat-square" alt="磁力& BT"></a>
+  <a href="#磁力-bt"><img src="https://img.shields.io/badge/磁力%26_BT-10-7c3aed?style=flat-square" alt="磁力& BT"></a>
   <a href="#字幕资源"><img src="https://img.shields.io/badge/字幕资源-3-d97706?style=flat-square" alt="字幕资源"></a>
   <a href="#tvbox影视仓空壳"><img src="https://img.shields.io/badge/TVBox%2F影视仓空壳-2-059669?style=flat-square" alt="TVBox/影视仓空壳"></a>
   <a href="#tvbox影视仓配置地址"><img src="https://img.shields.io/badge/TVBox%2F影视仓接口-15-0891b2?style=flat-square" alt="TVBox/影视仓配置地址"></a>
@@ -111,7 +111,7 @@
       <td nowrap><a href="https://www.appmovie.art" target="_blank" rel="noopener noreferrer">APP影院</a></td>
       <td nowrap>国内外热播剧，纯净无广告</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:appmovie -->🟡&#8288;访问&#8288;受限<!-- /availability:appmovie --></td>
+      <td align="center" nowrap><!-- availability:appmovie -->🟢&#8288;可&#8288;访问<!-- /availability:appmovie --></td>
       <td align="center" nowrap><!-- availability-date:appmovie -->2026&#8209;07&#8209;18<!-- /availability-date:appmovie --></td>
     </tr>
     <tr>
@@ -412,6 +412,13 @@
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
       <td align="center" nowrap><!-- availability:cilixiong -->🟢&#8288;可&#8288;访问<!-- /availability:cilixiong --></td>
       <td align="center" nowrap><!-- availability-date:cilixiong -->2026&#8209;07&#8209;18<!-- /availability-date:cilixiong --></td>
+    </tr>
+    <tr>
+      <td nowrap><a href="https://sidhub.cc/" target="_blank" rel="noopener noreferrer">SeedHub</a></td>
+      <td nowrap>五星</td>
+      <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
+      <td align="center" nowrap><!-- availability:sidhub-cc-7 -->🟡&#8288;访问&#8288;受限<!-- /availability:sidhub-cc-7 --></td>
+      <td align="center" nowrap><!-- availability-date:sidhub-cc-7 -->2026&#8209;07&#8209;18<!-- /availability-date:sidhub-cc-7 --></td>
     </tr>
     <tr>
       <td nowrap><a href="https://www.dyg22.com" target="_blank" rel="noopener noreferrer">电影港网</a></td>

@@ -3301,6 +3301,48 @@
         "added_at": "2026-07-10"
       },
       "featured": true
+    },
+    {
+      "id": "sidhub-cc-7",
+      "name": "SeedHub",
+      "url": "https://sidhub.cc/",
+      "category": "magnet_search",
+      "summary": "有磁力和各个网盘资源\n五星",
+      "summary_short": "五星",
+      "tags": [
+        "磁力与 BT"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-07-18",
+        "method": "manual",
+        "notes": "维护者 @laoma2053 已通过 ok 确认收录。 测试信息：2026-7-14 中国大陆。 维护者补充：五星 提交者风险说明：暂无"
+      },
+      "source": {
+        "submitted_by": "@LesliesCheung",
+        "added_at": "2026-07-18"
+      },
+      "featured": true
     }
   ]
 }
