@@ -393,7 +393,7 @@
         "network": "user submitted"
       },
       "result": "pending_review",
-      "notes": "根据用户补充收录在线影视资源：爱看机器人（https://www1.aikanbot.com，推荐指数 5 星，简介：全网热门的电影和电视剧榜单）、91毒舌（https://www.duse0.com/，推荐指数 5 星，简介：最新Netflix新剧、4K高清）、光速影视（https://www.yingshiso.link/，推荐指数 4 星，简介：作为备选，纯净无广告）和好好看（https://www.hhkan2.com/，推荐指数 5 星，简介：最新Netflix新剧、4K高清）；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
+      "notes": "根据用户补充收录在线影视资源：爱看机器人（https://www1.aikanbot.com，推荐指数 5 星，简介：全网热门的电影和电视剧榜单）、91毒舌（https://www.duse0.com/，推荐指数 5 星，简介后续更新为：最新Netflix新剧、4K高清（可访问））、光速影视（https://www.yingshiso.link/，推荐指数 4 星，简介：作为备选，纯净无广告）和好好看（https://www.hhkan2.com/，推荐指数 5 星，简介后续更新为：4K高清Netflix新剧（可访问需梯子））；提交状态不作为本项目状态依据，后续由 GitHub Actions 自动检测可用性，并持续观察版权状态与站点安全性。"
     },
     {
       "id": "verify-20260718-ifn",

@@ -1156,8 +1156,8 @@
       "name": "91毒舌",
       "url": "https://www.duse0.com/",
       "category": "online_video",
-      "summary": "最新Netflix新剧、4K高清。",
-      "summary_short": "最新Netflix新剧、4K高清",
+      "summary": "最新Netflix新剧、4K高清（可访问）。",
+      "summary_short": "最新Netflix新剧、4K高清（可访问）",
       "tags": [
         "在线影视",
         "Netflix",
@@ -1188,7 +1188,7 @@
         "status": "caution",
         "last_checked": "2026-07-18",
         "method": "manual",
-        "notes": "根据用户补充收录：推荐指数 5 星，简介为最新Netflix新剧、4K高清；提交状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
+        "notes": "根据用户补充更新简介为最新Netflix新剧、4K高清（可访问）；提交状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
       },
       "source": {
         "submitted_by": "maintainer",
@@ -1245,8 +1245,8 @@
       "name": "好好看",
       "url": "https://www.hhkan2.com/",
       "category": "online_video",
-      "summary": "最新Netflix新剧、4K高清。",
-      "summary_short": "最新Netflix新剧、4K高清",
+      "summary": "4K高清Netflix新剧（可访问需梯子）。",
+      "summary_short": "4K高清Netflix新剧（可访问需梯子）",
       "tags": [
         "在线影视",
         "Netflix",
@@ -1277,7 +1277,7 @@
         "status": "caution",
         "last_checked": "2026-07-18",
         "method": "manual",
-        "notes": "根据用户补充收录：推荐指数 5 星，简介为最新Netflix新剧、4K高清；提交状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
+        "notes": "根据用户补充更新简介为4K高清Netflix新剧（可访问需梯子）；提交状态不作为本项目状态依据，后续由自动检测刷新可访问状态。"
       },
       "source": {
         "submitted_by": "maintainer",
