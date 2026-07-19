@@ -1,7 +1,7 @@
 {
   "$schema": "./schema.json",
   "version": 1,
-  "updated_at": "2026-07-18",
+  "updated_at": "2026-07-19",
   "resources": [
     {
       "id": "no-video",
@@ -3680,6 +3680,48 @@
       "source": {
         "submitted_by": "@LesliesCheung",
         "added_at": "2026-07-18"
+      },
+      "featured": true
+    },
+    {
+      "id": "acg-rip-10",
+      "name": "ACG.RIP",
+      "url": "https://acg.rip/",
+      "category": "magnet_search",
+      "summary": "磁力为主的动漫、OST发布，无广",
+      "summary_short": "磁力为主的动漫、OST发布，无广",
+      "tags": [
+        "磁力与 BT"
+      ],
+      "access": {
+        "requires_login": false,
+        "free_level": "unknown",
+        "regions": [
+          "GLOBAL"
+        ]
+      },
+      "scores": {
+        "more": 4,
+        "speed": 4,
+        "clean": 4,
+        "stable": 4,
+        "ease": 4
+      },
+      "risks": {
+        "copyright": "high",
+        "safety": "medium",
+        "privacy": "unknown",
+        "payment": "unknown"
+      },
+      "verification": {
+        "status": "caution",
+        "last_checked": "2026-07-19",
+        "method": "manual",
+        "notes": "维护者 @laoma2053 已通过 ok 确认收录。 测试信息：2026-7-19，日本。 提交者风险说明：暂未发现广告、跳转、诱导下载以及隐私问题，版权未知，没有支付功能。**大陆不可访问**。"
+      },
+      "source": {
+        "submitted_by": "@moeyukisako",
+        "added_at": "2026-07-19"
       },
       "featured": true
     }
